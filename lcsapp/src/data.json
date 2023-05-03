@@ -1,0 +1,274 @@
+[
+    {
+        
+        "name": "100 Thieves",
+        "id": 0,
+        "teampic": "/img/100tlogo.png",
+        "teams" : {
+            "0": {
+                "name" : "Ssumday",
+                "num" : 0,
+                "item": {
+                    "image": "/img/ssumday.webp",
+                    "altText": "Picture of 100T Ssumday",
+                    "text": "100T Ssumday",
+                    "role": "Top Lane",
+                    "favchamp": "Aatrox",
+                    "nat": "South Korea",
+                    "lcslogo": "/img/lcslogo.png"
+                }
+            },
+            "1": {
+                "name" : "Closer",
+                "num" : 1,
+                "item": {
+                    "image": "/img/closer.webp",
+                    "altText": "Picture of 100T Closer",
+                    "text": "100T Closer",
+                    "role": "Jungler",
+                    "favchamp": "Maokai",
+                    "nat": "Turkey"
+
+                }
+            },
+            "2": {
+                "name" : "Abbedagge",
+                "num" : 2,
+                "item": {
+                    "image": "/img/abbed.webp",
+                    "altText": "Picture of 100T Abbedagge",
+                    "text": "100T Abbedagge",
+                    "role": "Mid Lane",
+                    "favchamp": "Viktor",
+                    "nat": "Germany"
+                }
+            },
+            "3": {
+                "name" : "FBI",
+                "num" : 3,
+                "item": {
+                    "image": "/img/fbi.webp",
+                    "altText": "Picture of 100T FBI",
+                    "text": "100T FBI",
+                    "role": "Bot Lane",
+                    "favchamp": "Kalista",
+                    "nat": "Australia"
+                }
+            },
+            "4": {
+                "name" : "Huhi",
+                "num" : 4,
+                "item": {
+                    "image": "/img/huhi.webp",
+                    "altText": "Picture of 100T Huhi",
+                    "text": "100T Huhi",
+                    "role": "Support",
+                    "favchamp": "Soraka",
+                    "nat": "South Korea"
+                }
+            }
+        }
+    },
+    {
+        "name": "Cloud9",
+        "id": 1,
+        "teampic": "/img/cloud9.png",
+        "teams" : {
+            "0": {
+                "name" : "Fudge",
+                "num" : 0,
+                "item": {
+                    "image": "/img/c9fudge.webp",
+                    "altText": "Picture of C9 Fudge",
+                    "text": "Cloud 9 Fudge",
+                    "role": "Top Lane",
+                    "favchamp": "Fiora",
+                    "nat": "Australia"
+                }
+            },
+            "1": {
+                "name" : "Blaber",
+                "num" : 1,
+                "item": {
+                    "image": "/img/c9blabber.webp",
+                    "altText": "Picture of C9 Blaber",
+                    "text": "Cloud9 Blaber",
+                    "role": "Jungler",
+                    "favchamp": "Jarvan IV",
+                    "nat": "USA"
+                }
+            },
+            "2": {
+                "name" : "Jensen",
+                "num" : 2,
+                "item": {
+                    "image": "/img/c9jensen.webp",
+                    "altText": "Picture of C9 Jensen",
+                    "text": "Cloud9 Jensen",
+                    "role": "Mid Lane",
+                    "favchamp": "Orianna",
+                    "nat": "Denmark"
+                }
+            },
+            "3": {
+                "name" : "Beserker",
+                "num" : 3,
+                "item": {
+                    "image": "/img/c9beserk.webp",
+                    "altText": "Picture of C9 Beserker",
+                    "text": "Cloud9 Beserker",
+                    "role": "Bot Lane",
+                    "favchamp": "Tristana",
+                    "nat": "South Korea"
+                }
+            },
+            "4": {
+                "name" : "Zven",
+                "num" : 4,
+                "item": {
+                    "image": "/img/c9zven.webp",
+                    "altText": "Picture of C9 Zven",
+                    "text": "Cloud9 Zven",
+                    "role": "Support",
+                    "favchamp": "Rakan",
+                    "nat": "Denmark"
+                }
+            }
+        }
+    },
+    {
+        "name": "Team Liquid",
+        "id": 2,
+        "teampic": "/img/teamllogo.png",
+        "teams" : {
+            "0": {
+                "name" : "Bwipo",
+                "num" : 0,
+                "item": {
+                    "image": "/img/tlbwipo.webp",
+                    "altText": "Picture of TL Bwipo",
+                    "text": "Team Liquid Bwipo",
+                    "role": "Top Lane",
+                    "favchamp": "Fiora",
+                    "nat": "Belgium"
+                }
+            },
+            "1": {
+                "name" : "Santorin",
+                "num" : 1,
+                "item": {
+                    "image": "/img/tlsantorin.webp",
+                    "altText": "Picture of TL Santorin",
+                    "text": "Team Liquid Santorin",
+                    "role": "Jungler",
+                    "favchamp": "Lee Sin",
+                    "nat": "Denmark"
+                }
+            },
+            "2": {
+                "name" : "Bjergsen",
+                "num" : 2,
+                "item": {
+                    "image": "/img/tlbjerg.webp",
+                    "altText": "Picture of TL Bjergsen",
+                    "text": "Team Liquid Bjergsen",
+                    "role": "Mid Lane",
+                    "favchamp": "Syndra",
+                    "nat": "Denmark"
+                }
+            },
+            "3": {
+                "name" : "Hans Sama",
+                "num" : 3,
+                "item": {
+                    "image": "/img/tlhans.webp",
+                    "altText": "Picture of TL Hans Sama",
+                    "text": "Team Liquid Hans Sama",
+                    "role": "Bot Lane",
+                    "favchamp": "Kai'sa",
+                    "nat": "France"
+                    
+                }
+            },
+            "4": {
+                "name" : "Corejj",
+                "num" : 4,
+                "item": {
+                    "image": "/img/tlcorejj.webp",
+                    "altText": "Picture of TL Corejj",
+                    "text": "Team Liquid Corejj",
+                    "role": "Support",
+                    "favchamp": "Rell",
+                    "nat": "South Korea"
+                }
+            }
+        }
+    },
+    {
+        "name": "Evil Geniuses",
+        "id": 3,
+        "teampic": "/img/evilglogo.png",
+        "teams" : {
+            "0": {
+                "name" : "Impact",
+                "num" : 0,
+                "item": {
+                    "image": "/img/egimpact.webp",
+                    "altText": "Picture of EG Impact",
+                    "text": "Evil Geniuses Impact",
+                    "role": "Top Lane",
+                    "favchamp": "Aatrox",
+                    "nat": "South Korea"
+                }
+            },
+            "1": {
+                "name" : "Inspired",
+                "num" : 1,
+                "item": {
+                    "image": "/img/eginspired.webp",
+                    "altText": "Picture of EG Inspired",
+                    "text": "Evil Geniuses Inspired",
+                    "role": "Jungler",
+                    "favchamp": "Lee Sin",
+                    "nat": "Poland"
+                }
+            },
+            "2": {
+                "name" : "Jojopyun",
+                "num" : 2,
+                "item": {
+                    "image": "/img/egjojo.webp",
+                    "altText": "Picture of EG Jojopyun",
+                    "text": "Evil Geniuses Jojopyun",
+                    "role": "Mid Lane",
+                    "favchamp": "Sett",
+                    "nat": "Canada"
+                }
+            },
+            "3": {
+                "name" : "Danny",
+                "num" : 3,
+                "item": {
+                    "image": "/img/egdanny.webp",
+                    "altText": "Picture of EG Danny",
+                    "text": "Evil Geniuses Danny",
+                    "role": "Bot Lane",
+                    "favchamp": "Tristana",
+                    "nat": "USA"
+                }
+            },
+            "4": {
+                "name" : "Vulcan",
+                "num" : 4,
+                "item": {
+                    "image": "/img/egvulcan.webp",
+                    "altText": "Picture of EG Vulcan",
+                    "text": "Evil Geniuses Vulcan",
+                    "role": "Support",
+                    "favchamp": "Zyra",
+                    "nat": "Canada"
+                }
+            }
+        }
+    }
+]
